@@ -1,0 +1,157 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+header, main {
+    padding: 40px 120px;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.nav__div {
+    display: flex;
+    align-items: center;
+    gap: 74px;
+}
+.button1 {
+    width: 142px;
+    height: 49px;
+    background-color: #2C3878;
+    color: white;
+    font-family: 'poppins';
+}
+.header__text {
+    color:#222222 ;
+font-family: 'poppins';
+}
+.main__text {
+    color: #222222;
+    font-family: 'Poppins';
+    font-weight: bold;
+    width: 681px;
+    height: 303px;
+    font-size: 72px;
+    position: absolute;
+    
+}
+.main__img {
+width: 1300px;
+height: 513px;
+padding: 360px 120px 160px 10px;
+
+
+
+}
+.main__inf {
+
+ color: #ffffff;
+ font-size: 52px;
+ font-weight: 400;
+ 
+ 
+}
+.main__cont {
+background-color: #2C3878;
+width: 252px;
+height: 525px;
+font-family: 'poppins';
+
+}
+.main__cont__img {
+padding: 132px 262px 197px 876px;
+position: absolute;
+
+}
+.main_info {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 160%;
+    font-weight: 400;
+    width: 150px;
+    height: 26px;
+   
+}
+.div_cont {
+    padding: 40px 51px 57px 51px;
+    width: 150px;
+    height: 109px;
+}
+.div__cont {
+    padding: 57px 48px 57px 58px;
+    width: 156px;
+    height: 109px;
+}
+.container {
+    padding: 100px 58px 44px 59px;
+    width: 135px;
+    height: 109px;
+}
+.main__line {
+    position: absolute;
+    padding: 41px 122px 90px 570px;
+    width: 683px;
+}
+.text {
+    padding: 523px 10px;
+    font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+font-family: 'poppins';
+position: absolute;
+}
+.img__2 {
+    position: absolute;
+    padding: 522px 90px;
+    width: 529px;
+}
+.str__info {
+    font-weight: 600;
+font-size: 36px;
+line-height: 170%;
+font-family: 'poppins';
+height: 122px;
+position: absolute;
+margin-top: 570px;
+width: 1200px;
+}
+.img__3 {
+    position: absolute;
+    padding: 766px;
+    margin-bottom: 350px;
+
+}
+.img__4 {
+    
+    margin-bottom: px;
+    width: 883px;
+height: 525px;
+}
+.img__cont {
+    display: flex;
+    align-items: center;
+    padding: 757px 1px;
+}
+.text__img {
+    font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+font-family: 'poppins';
+width: 223px;
+height: 145px;
+color: #9C9C9C;
+position: absolute;
+margin-left: 1000px;
+}
+.button2 {
+    width: 142px;
+    height: 49px;
+    background-color: #2C3878;
+    color: white;
+    font-family: 'poppins';
+    margin-top: 290px;
+    margin-left: 120px;
+}
